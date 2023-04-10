@@ -1,0 +1,1 @@
+This simple program converts Nigerian naira to its dollar equivalent with the help of built in functions like eval; which evaluate arbitrary Python expressions from a string-based or compiled-code-based input, and lambda;a keyword in Python for defining the anonymous function
